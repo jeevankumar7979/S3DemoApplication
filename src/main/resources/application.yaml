@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: S3DemoAppplication
+
+
+cloud:
+  aws:
+    credentials:
+      region: ap-south-2
+aws:
+  bucket-name: jeevanv4
